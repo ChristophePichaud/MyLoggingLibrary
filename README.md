@@ -1,7 +1,7 @@
 # MyLoggingLibrary
 A logging library
 
-'
+~~~~
 // Client.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
@@ -33,4 +33,4 @@ int main()
 		logger->Info("Logging an Info...");
 	}
 }
-'
+~~~~
