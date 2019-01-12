@@ -1,0 +1,2 @@
+# MyLoggingLibrary
+A logging library
